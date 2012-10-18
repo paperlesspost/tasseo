@@ -1,3 +1,3 @@
-require "tasseo/web"
+require "./lib/tasseo/web"
 
 run Tasseo::Web
